@@ -63,4 +63,5 @@ def search_by_path(tablename,image_id):
 def delete_illegal(image_id)  
 通过id删除违章记录  
 # 注：
-## 当前实现功能还不完善，仅提供测试，后续有时间在继续优化
+## 当前实现功能还不完善，仅提供测试，后续有时间在继续添加功能 
+## 代码未经整合 后续慢慢优化注释
