@@ -1,4 +1,4 @@
-# Helmet-face-Detection---v1.0
+# Helmet and face Detection---v1.0
  helmet and face detection 
 ### 为解决安全头盔识别问题，采用Yolo v3算法，对数据集进行训练，训练出的结果用来检测安全帽；为解决佩戴以及未佩戴安全头盔的人脸识别问题，运用face_recognition的接口进行人脸识别
  
